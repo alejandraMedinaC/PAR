@@ -1,0 +1,5 @@
+NewMain.class
+py\una\pol\par\parproductmcs\model\entity\Category.class
+py\una\pol\par\parproductmcs\repository\InMemProductRepository.class
+py\una\pol\par\parproductmcs\repository\ProductRepository.class
+py\una\pol\par\parproductmcs\model\entity\Product.class

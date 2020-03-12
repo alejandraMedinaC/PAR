@@ -1,0 +1,8 @@
+NewMain.class
+py\una\pol\par\parusrmcs\repository\InMemProductRepository.class
+py\una\pol\par\parusrmcs\repository\UserRepository.class
+py\una\pol\par\parusrmcs\model\entity\Product.class
+py\una\pol\par\parusrmcs\model\entity\Category.class
+py\una\pol\par\parusrmcs\repository\ProductRepository.class
+py\una\pol\par\parusrmcs\model\entity\User.class
+py\una\pol\par\parusrmcs\repository\InMemUserRepository.class
